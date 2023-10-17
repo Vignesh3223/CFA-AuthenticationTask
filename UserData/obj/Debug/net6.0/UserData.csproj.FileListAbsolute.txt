@@ -1,0 +1,12 @@
+E:\CFA\UserData\bin\Debug\net6.0\UserData.deps.json
+E:\CFA\UserData\bin\Debug\net6.0\UserData.dll
+E:\CFA\UserData\bin\Debug\net6.0\UserData.pdb
+E:\CFA\UserData\obj\Debug\net6.0\UserData.csproj.AssemblyReference.cache
+E:\CFA\UserData\obj\Debug\net6.0\UserData.GeneratedMSBuildEditorConfig.editorconfig
+E:\CFA\UserData\obj\Debug\net6.0\UserData.AssemblyInfoInputs.cache
+E:\CFA\UserData\obj\Debug\net6.0\UserData.AssemblyInfo.cs
+E:\CFA\UserData\obj\Debug\net6.0\UserData.csproj.CoreCompileInputs.cache
+E:\CFA\UserData\obj\Debug\net6.0\UserData.dll
+E:\CFA\UserData\obj\Debug\net6.0\refint\UserData.dll
+E:\CFA\UserData\obj\Debug\net6.0\UserData.pdb
+E:\CFA\UserData\obj\Debug\net6.0\ref\UserData.dll

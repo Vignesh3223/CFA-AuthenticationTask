@@ -1,0 +1,12 @@
+E:\CFA\UserManagement\bin\Debug\net6.0\UserManagement.deps.json
+E:\CFA\UserManagement\bin\Debug\net6.0\UserManagement.dll
+E:\CFA\UserManagement\bin\Debug\net6.0\UserManagement.pdb
+E:\CFA\UserManagement\obj\Debug\net6.0\UserManagement.csproj.AssemblyReference.cache
+E:\CFA\UserManagement\obj\Debug\net6.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\CFA\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfoInputs.cache
+E:\CFA\UserManagement\obj\Debug\net6.0\UserManagement.AssemblyInfo.cs
+E:\CFA\UserManagement\obj\Debug\net6.0\UserManagement.csproj.CoreCompileInputs.cache
+E:\CFA\UserManagement\obj\Debug\net6.0\UserManagement.dll
+E:\CFA\UserManagement\obj\Debug\net6.0\refint\UserManagement.dll
+E:\CFA\UserManagement\obj\Debug\net6.0\UserManagement.pdb
+E:\CFA\UserManagement\obj\Debug\net6.0\ref\UserManagement.dll
